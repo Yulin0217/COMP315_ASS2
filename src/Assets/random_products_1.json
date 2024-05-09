@@ -1,0 +1,11 @@
+[
+    {
+        "id": 0,
+        "name": "Sunglasses 1",
+        "price": 159.02,
+        "category": "Clothing",
+        "quantity": 5,
+        "rating": 1.11,
+        "image_link": "Clothing/Sunglasses/Firefly cool dog wearing sunglasses 78591.jpg"
+    }
+]
